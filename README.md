@@ -34,7 +34,7 @@ Community** (free edition — no Pro needed). Targets and a shell box are provid
 
 ## Contact
 
-Questions before the con? Join the Discord: `<PASTE DISCORD INVITE>`
+Questions before the con? Join the Discord: `<DISCORD INVITE COMING SOON>`
 
 ---
 *Intentionally vulnerable training software. Run it only in an isolated lab environment.*
