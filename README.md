@@ -13,7 +13,7 @@ Cale Smith · Luke Cycon · Young Kim · Ruchik Dave
 
 A hands-on intro to finding and weaponizing real web bugs — SQL injection, command injection, JWT
 and session flaws, IDOR, XSS — and chaining an auth bypass with RCE into a remote-root exploit.
-The theme is **whitebox + AI-resistant**: you get the source and the running box, and every
+The theme is **whitebox**: you get the source and the running box, and every
 challenge is built so a blind copy-paste of the textbook payload quietly fails. Methodology is the
 moat.
 
